@@ -1,0 +1,16 @@
+[
+  {
+    "requestId": 1,
+    "bookId": 1,
+    "requestedBy": "jane_smith",
+    "requestedFrom": "john_doe",
+    "status": "Pending"
+  },
+  {
+    "requestId": 2,
+    "bookId": 2,
+    "requestedBy": "jack_black",
+    "requestedFrom": "jane_smith",
+    "status": "Pending"
+  }
+]

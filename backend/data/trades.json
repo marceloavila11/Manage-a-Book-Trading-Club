@@ -1,0 +1,18 @@
+[
+    {
+      "bookId": 1,
+      "requester": "jane_smith",
+      "owner": "john_doe"
+    },
+    {
+      "bookId": 2,
+      "requester": "jack_black",
+      "owner": "jane_smith"
+    },
+    {
+      "bookId": 3,
+      "requester": "john_doe",
+      "owner": "jack_black"
+    }
+  ]
+  

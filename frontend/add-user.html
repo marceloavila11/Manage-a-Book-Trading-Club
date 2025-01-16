@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="assets/styles.css">
+  <title>Add User</title>
+</head>
+<body>
+    <nav class="navbar">
+        <a href="index.html">Books</a>
+        <a href="requests.html">Requests</a>
+        <a href="trades.html">Trades</a>
+        <a href="users.html">Users</a>
+        <a href="add-user.html">Login</a> <!-- Enlace añadido -->
+      </nav>
+  <h1>Add New User</h1>
+  <form id="add-user-form">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" required>
+    
+    <label for="fullName">Full Name:</label>
+    <input type="text" id="fullName" name="fullName" required>
+    
+    <label for="city">City:</label>
+    <input type="text" id="city" name="city" required>
+    
+    <label for="state">State:</label>
+    <input type="text" id="state" name="state" required>
+    
+    <button type="submit">Add User</button>
+  </form>
+  <p id="message"></p>
+  <script src="assets/add-user.js"></script>
+</body>
+</html>

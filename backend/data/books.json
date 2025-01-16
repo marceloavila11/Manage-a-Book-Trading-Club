@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "owner": "john_doe",
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "owner": "jane_smith",
+    "available": true
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "owner": "jack_black",
+    "available": true
+  }
+]
